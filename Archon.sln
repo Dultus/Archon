@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archon", "Archon\Archon.csproj", "{7BFB53F8-7AD6-4BEA-A23A-E8D7FAA53D9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archonintelligence", "Archonintelligence\Archonintelligence.csproj", "{7F31FF92-925B-4948-B122-0AA7A2BAEAE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7BFB53F8-7AD6-4BEA-A23A-E8D7FAA53D9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BFB53F8-7AD6-4BEA-A23A-E8D7FAA53D9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BFB53F8-7AD6-4BEA-A23A-E8D7FAA53D9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F31FF92-925B-4948-B122-0AA7A2BAEAE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F31FF92-925B-4948-B122-0AA7A2BAEAE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F31FF92-925B-4948-B122-0AA7A2BAEAE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F31FF92-925B-4948-B122-0AA7A2BAEAE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
