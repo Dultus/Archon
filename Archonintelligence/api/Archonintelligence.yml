@@ -1,0 +1,22 @@
+### YamlMime:ManagedReference
+items:
+- uid: Archonintelligence
+  commentId: N:Archonintelligence
+  id: Archonintelligence
+  children:
+  - Archonintelligence.Class1
+  langs:
+  - csharp
+  - vb
+  name: Archonintelligence
+  nameWithType: Archonintelligence
+  fullName: Archonintelligence
+  type: Namespace
+  assemblies:
+  - Archonintelligence
+references:
+- uid: Archonintelligence.Class1
+  commentId: T:Archonintelligence.Class1
+  name: Class1
+  nameWithType: Class1
+  fullName: Archonintelligence.Class1

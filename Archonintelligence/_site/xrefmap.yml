@@ -1,0 +1,15 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Archonintelligence
+  name: Archonintelligence
+  href: api/Archonintelligence.html
+  commentId: N:Archonintelligence
+  fullName: Archonintelligence
+  nameWithType: Archonintelligence
+- uid: Archonintelligence.Class1
+  name: Class1
+  href: api/Archonintelligence.Class1.html
+  commentId: T:Archonintelligence.Class1
+  fullName: Archonintelligence.Class1
+  nameWithType: Class1
